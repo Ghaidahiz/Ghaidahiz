@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a new developer excited to learn, get creative, and design cool projects. Let’s make something awesome!
 
-My website: https://ghaidahiz.net
+My website: https://ghaida.net
 
 
 
